@@ -1,0 +1,4 @@
+﻿  UnitTest2.cpp
+C:\Users\vladt\Desktop\Лабораторні\Програмування\5.0\UnitTest2\UnitTest2.cpp(16,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\vladt\Desktop\Лабораторні\Програмування\5.0\UnitTest2\UnitTest2.cpp(16): error C4700: uninitialized local variable 'b' used
+C:\Users\vladt\Desktop\Лабораторні\Програмування\5.0\UnitTest2\UnitTest2.cpp(16): error C4700: uninitialized local variable 'a' used
